@@ -1,0 +1,38 @@
+object diningRoomChair
+
+Attributes:
+material: "wood"
+color: "black"
+seatType: "cushion"
+numberOfLegs: 4
+currentWeightOfOccupant: 150
+maximumWeightCapacity: 300
+occupied: true
+
+
+Methods:
+getOff: currentWeightOfOccupant = 0, occupied = false
+sitOn: currentWeightOfOccupant = 150, occupied = true
+paint: color = "white"
+calculateWeightCapacityPercent: 150 / 300 = 0.5
+breakLeg: numberOfLegs = 3
+
+
+object deskChair
+
+Attributes:
+material: "plastic"
+color: "orange"
+seatType: "hard"
+numberOfLegs: 3
+currentWeightOfOccupant: 150
+maximumWeightCapacity: 900
+occupied: true
+
+
+Methods:
+getOff: currentWeightOfOccupant = 0, occupied = false
+paint: color = "red"
+repairBrokenLeg: numberOfLegs = 4
+sitOn: currentWeightOfOccupant = 150, occupied = true
+calculateWeightCapacityPercent: 150 / 900 = 0.167
