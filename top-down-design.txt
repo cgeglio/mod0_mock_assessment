@@ -1,0 +1,44 @@
+Doing Laundry
+1 Sort Clothes
+  1.1 Make a pile for dark clothes
+    1.1.1  Go through your hamper and add all of your dark clothes to this pile
+  1.2 Make a pile for light clothes
+    1.2.1 Go through your hamper and add all of your light clothes to this pile
+2 Wash Clothes
+  2.1 Put light OR dark clothes in the washing machine
+  2.2 Add detergent
+    2.2.1 Grab detergent from shelf
+    2.2.2 Take lid off of detergent
+    2.2.3 Use lid to measure out detergent
+    2.2.4 Pour detergent over the clothes in the washing machine
+    2.2.5 Close the lid of the washing machine
+  2.3 Select machine settings
+    2.3.1 Set size of load
+      2.3.1.1 Turn the dial to small, medium, large, or super based on how full the machine is.
+    2.3.2 Set temperature of water
+      2.3.2.1 Turn the dial to Warm/Cold
+    2.3.3 Choose wash cycle
+      2.3.3.1 Turn dial to Regular
+  2.4 Start machine
+    2.4.1 Depending on your machine, press the start button or pull up on the dial for the cycle selection
+3 Dry Clothes
+  3.1 Wait for washing machine cycle to end
+  3.2 Clean out lint filter
+    3.2.1 Open up lint filter
+    3.2.2 Use your hand to pull out the accumulated lint
+    3.2.3 Throw away lint
+    3.2.4 Replace lint filter
+  3.3 Put wet clothes in dryer
+    3.3.1 Open washing machine
+    3.3.2 Take wet clothes out of the washing machine
+    3.3.3 Put wet clothes inside dryer
+  3.4 Add dryer sheet
+    3.4.1 Take box of dryer sheets off of shelf
+    3.4.2 Take one dryer sheet out of box
+    3.4.3 Put dryer sheet in dryer
+    3.4.4 Close dryer
+  3.5 Select machine settings
+    3.5.1 Turn dial to High Heat
+    3.5.2 Turn dial to Regular
+  3.6 Start dryer
+    3.6.1 Press the start button or pull up on the cycle-select dial
