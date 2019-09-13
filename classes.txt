@@ -1,0 +1,19 @@
+Class: Chair
+
+Attributes:
+material (string)
+color (string)
+seatType (string)
+numberOfLegs (integer)
+currentWeightOfOccupant (integer)
+maximumWeightCapacity (integer)
+occupied (boolean)
+
+
+Methods:
+getOff (decreases currentWeightOfOccupant 150, occupied = false)
+sitOn (increases currentWeightOfOccupant, occupied = true)
+paint (changes color attribute)
+calculateWeightCapacityPercent (currentWeightOfOccupant / maximumWeightCapacity)
+breakLeg (decreases numberOfLegs 1)
+repairBrokenLeg (increases numberOfLegs 1)
